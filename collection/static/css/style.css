@@ -1,3 +1,6 @@
 body {
   background: lightblue;
+  /* example path
+  background-image: url(../images/logo.png);
+  */
 }
